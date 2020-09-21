@@ -1,0 +1,5 @@
+homepage: "https://visual-meta.com"
+documentation: "https://github.com/visualmetaapi/gtm-vendor-landing-template/blob/master/VISUAL%20META%20SALES%20TRACKING%202.0.pdf"
+versions:  
+  - sha: 2ace4b973c736518349d37174ad68e8a5c07048d
+    changeNotes: Initial release.
