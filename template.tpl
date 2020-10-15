@@ -47,7 +47,7 @@ let trackingId = null;
 
 if (queryPermission('get_url', 'query', cookieParamName) && 
     queryPermission('get_url', 'query', trackingParamName)) {
-  let queryParams = getUrl('query', false, null, 'vmst_id');
+  let queryParams = getUrl();
   
   let cookieArray = queryParams.split(cookieParamName);
   for(let i = 1; i < cookieArray.length; i++) {
