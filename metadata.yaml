@@ -2,8 +2,8 @@ homepage: "https://visual-meta.com"
 documentation: "https://github.com/visual-meta/gtm-vendor-landing-template/blob/master/VisualMetaSalesTracking2.0-ImplementationGuide.pdf"
 versions:
   # Latest version
-  - sha: b7961cb0ffd35fa8f6ce9a3cdf927f888c3ec462
-    changeNotes: Updates the template to set cookie for 60 days. 
+  - sha: 885678ea335f47567e26b9f5ab82f37455c9ef6a
+    changeNotes: Update logo and changed visual meta to ladenzeile.
   # Older versions    
   - sha: 188f7bbee2f732be0dc936d74e42577139f95f0d
     changeNotes: Initial release.
